@@ -45,9 +45,11 @@ Este projeto traz um conjunto de dados de vendas de um pet shop (**Gatito Petsho
 
 ---
 
-## 🏁 Resultado esperado
+## 🏁 Resultado final
 
 Um **dashboard interativo** que permita acompanhar as métricas de vendas e desempenho do pet shop, identificando oportunidades de melhoria e comportamento dos clientes.
+
+<img width="1481" height="811" alt="image" src="https://github.com/user-attachments/assets/c46308a4-8194-44e4-88cb-0e026dba4b1c" />
 
 ---
 
